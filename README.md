@@ -1,5 +1,7 @@
 # HS2-Firmware Patched
 
+Factory firmware can be found here: https://www.ailunce.com/Support/HS2/Software
+
 The following HS2 Firmware is patched to change the "user setup" to the hidden "factory setup" user account.
 
 By flashing one of the following firmware file(s) to your HS2 radio it is then possible to navigate to the "SET" menu and hold down the "PA" button
