@@ -1,6 +1,6 @@
 # HS2-Firmware Patched
 
-Factory firmware can be found here: https://www.ailunce.com/Support/HS2/Software
+Factory firmware can be found here: https://zy0d0x0.github.io/HS2-Reversing/
 
 How the firmware was patched can be found here https://github.com/Zy0d0x0/HS2-Reversing
 
