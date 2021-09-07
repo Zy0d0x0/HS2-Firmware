@@ -3,7 +3,7 @@
 
 How the firmware was patched can be found here: https://zy0d0x0.github.io/HS2-Reversing/
 
-Factory firmware can be found here: https://github.com/Zy0d0x0/HS2-Reversing
+Factory firmware can be found here: https://www.ailunce.com/Support/HS2/Software
 
 The following HS2 Firmware is patched to change the "user setup" to the hidden "factory setup" user account.
 
