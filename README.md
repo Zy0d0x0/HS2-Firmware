@@ -5,6 +5,14 @@ How the firmware was patched can be found here: https://zy0d0x0.github.io/HS2-Re
 
 Factory firmware can be found here: https://www.ailunce.com/Support/HS2/Software
 
+This patched firmware is no longer needed as all the pin numbers where found withing the software and firmware.
+
+Factory Pin is 200510 
+Agent pin is 685911 
+User pin is 000000 
+
+The password for HS2 Software V1 Beta login is 200510
+
 The following HS2 Firmware is patched to change the "user setup" to the hidden "factory setup" user account.
 
 By flashing one of the following firmware file(s) to your HS2 radio it is then possible to navigate to the "SET" menu and hold down the "PA" button
