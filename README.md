@@ -5,7 +5,7 @@ How the firmware was patched can be found here: https://zy0d0x0.github.io/HS2-Re
 
 Factory firmware can be found here: https://www.ailunce.com/Support/HS2/Software
 
-This patched firmware is no longer needed as all the pin numbers where found withing the software and firmware.
+This patched firmware is no longer needed as all the pin numbers where found within the software and firmware.
 
 * Factory Pin: 200510 
 * Agent Pin: 685911 
