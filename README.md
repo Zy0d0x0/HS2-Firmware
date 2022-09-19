@@ -18,3 +18,7 @@ then entering the pin of "000000" When exiting the SET menu and the again naviga
 
 
 If you would also like a Wheel for the HS2 the following project can be found here https://github.com/Zy0d0x0/HS2-Wheel
+
+
+Q900 1.4.5 Firmware is just a re-pack of the original DFU file as it fails to load into DFuse Demo. All i have done is extract the bin the re-add it
+to a new DFU file.
